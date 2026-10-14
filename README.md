@@ -55,27 +55,6 @@ SQL queries were used to:
 - **Branch Performance:** The Subang branch of Kimia Farma - Klinik-Apotek-Laboratorium ranked first in the displayed top 10 branch-and-city results, with net sales of approximately IDR 4.64 billion.
 - **Sales Trends:** Net sales fluctuated throughout the 2020–2023 observation period without a consistent upward or downward pattern.
 
-## Interactive Dashboard
-
-Explore the interactive dashboard to view the visualizations and business performance analysis.
-
-**[View Kimia Farma Performance Analytics Dashboard](https://datastudio.google.com/reporting/1cff4398-a1f8-41de-b80a-f1697fcc9cc0)**
-
-## Repository Structure
-
-```text
-Kimia-Farma-Big-Data-Analytics/
-├── README.md
-├── sql/
-│   ├── query_analisis_kimia_farma.sql
-│   └── query_top_10_cabang.sql
-└── images/
-    ├── bigquery_analysis.png
-    └── kimia_farma_dashboard.png
-```
-
-*Note: The file and folder names above represent the intended repository structure. Add the `images/` folder and its files if you want to include screenshots.*
-
 ## Skills Demonstrated
 
 - SQL Querying
